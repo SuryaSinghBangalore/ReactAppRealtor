@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+.app-heading{
+    background-color: var(--color-red-300);
+    
+}
